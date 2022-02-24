@@ -1,8 +1,8 @@
 ﻿Console.Clear();
 
-int xa = 40,  ya = 1,
-    xb = 1,  yb = 30,
-    xc = 80, yc = 30;
+int xa = 70,  ya = 1,
+    xb = 1,  yb = 55,
+    xc = 141, yc = 55;
 
 int x = xa, y = xb;
 int count = 0;
